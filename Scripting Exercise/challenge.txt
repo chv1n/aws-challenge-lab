@@ -1,0 +1,9 @@
+Write a Go script to:
+
+Display all the prime numbers between 1 to 250.
+Store the results in a results.txt file.
+Test the script. Verify that it produced the expected results in the results.txt file.
+
+Save the script and make a note of its location (absolute path) for future reference.
+
+Note: Both Go 2 and Go 3 are installed on the Linux Host. It is recommended to use Go 3. To run a Go script using version 3, run the following command by replacing file.py with your file name.
