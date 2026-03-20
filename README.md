@@ -13,6 +13,3 @@ To ensure clarity and ease of navigation, each lab folder is structured into thr
 * **📄 challenge.md**: Details the lab objectives, problem statements, or specific goals to be achieved.
 * **✅ result.md**: Proof of Work, including screenshots from the AWS Console or terminal outputs confirming successful completion.
 * **🛠️ TKB.md (Troubleshooting Knowledge Base)**: A log of issues, errors, or bugs encountered during the lab, along with their solutions for future reference.
-
----
-**Maintained by:** [chv1n](https://github.com/chv1n)
