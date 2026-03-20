@@ -7,7 +7,7 @@ Amazon Virtual Private Cloud (Amazon VPC) gives you the ability to provision a l
 In this lab, you build a virtual private cloud (VPC) and other network components required to deploy resources, such as an Amazon Elastic Compute Cloud (Amazon EC2) instance.
 ![alt text](./img/image.png)
 
-#### Lab overview
+#### Objectives
 By the end of this lab, you should be able to do the following:
 - Create a VPC with a private and public subnet, an internet gateway, and a NAT gateway.
 - Configure route tables associated with subnets to local and internet-bound traffic by using an internet gateway and a NAT gateway.
