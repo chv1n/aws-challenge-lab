@@ -10,18 +10,18 @@ Create the following components that are shown in the final architecture diagram
 - CafeDB Private Subnet 2
 - CafeDB Subnet Group (Database subnet group)
 
->Connecting to the CLI Host instance and Configuring the AWS CLI
+>Connecting to the CLI Host instance and Configuring the AWS CLI  
 ![alt text](./img/image-3.png)
 
->Creating prerequisite components
+>Creating prerequisite components  
 ![alt text](./img/image-5.png)
 ![alt text](./img/image-6.png)  
-**Create Subnet**
+**Create Subnet**  
 ![alt text](./img/image-8.png)  
-**Create subnet Group**
+**Create subnet Group**  
 ![alt text](./img/image-9.png)
 
->Creating the Amazon RDS MariaDB instance
+>Creating the Amazon RDS MariaDB instance  
 ![alt text](./img/image-10.png)
 
 
